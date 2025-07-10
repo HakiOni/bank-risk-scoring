@@ -1,0 +1,5 @@
+pandas
+faker
+sqlite3
+streamlit
+plotly
